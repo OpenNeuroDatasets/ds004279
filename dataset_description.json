@@ -1,0 +1,15 @@
+{
+    "Name": "EEG: silent and perceive speech on 30 spanish sentences",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Carlos Valle Araya",
+        "Carolina Mendez-Orellana",
+        "Maria Rodriguez-Fernandez"
+    ],
+    "Acknowledgements": "We thank Andrea Sanchez and Amaro silva for their help during data collection.",
+    "Funding": [
+        "Doctoral scholarship N 21211883 (2021)383 by Agencia Nacional de Investigacion y Desarrollo (ANID Chile)"
+    ],
+    "DatasetDOI": ""
+}
