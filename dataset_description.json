@@ -1,5 +1,5 @@
 {
-    "Name": "EEG: silent and perceive speech on 30 spanish sentences",
+    "Name": "Large Spanish EEG\n",
     "BIDSVersion": "1.6.0",
     "DatasetType": "raw",
     "Authors": [
