@@ -1,4 +1,4 @@
-﻿EEG: silent and perceive speech on 30 spanish sentences
+EEG: silent and perceive speech on 30 Spanish sentences
 Large Spanish Speech EEG dataset 
 
 Authors
@@ -12,7 +12,7 @@ Authors
 Resources:
 <ul>
     <li>Code availaible at: https://github.com/cgvalle/Large_Spanish_EEG</li>
-    <li>Publication: </li>
+    <li>Publication: Valle, C., Mendez-Orellana, C., Herff, C., & Rodriguez-Fernandez, M. (2024). Identification of perceived sentences using deep neural networks in EEG. Journal of neural engineering, 21(5), 056044. </li>
 </ul>
 
 Abstract:
